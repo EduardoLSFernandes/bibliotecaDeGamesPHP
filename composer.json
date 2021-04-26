@@ -1,0 +1,9 @@
+{
+    "name": "crud/games",
+    "description": "CRUD PHP",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
